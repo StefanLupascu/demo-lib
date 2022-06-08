@@ -4,7 +4,7 @@
 
     <application>
         <activity
-            android:name=".BlendinActivity"
+            android:name=".ui.BlendinActivity"
             android:exported="true">
         </activity>
     </application>

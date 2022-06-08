@@ -35,7 +35,8 @@ android {
 
 dependencies {
 
-    implementation(project(path: ":my-library"))
+//    implementation(project(path: ":my-library"))
+    implementation 'com.github.StefanLupascu:demo-lib:0.0.1'
 
     implementation 'androidx.core:core-ktx:1.7.0'
     implementation 'androidx.appcompat:appcompat:1.4.1'
